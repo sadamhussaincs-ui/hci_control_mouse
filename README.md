@@ -1,1 +1,9 @@
-# hci_control_mouse
+# hci_control_mouse Using Library 
+
+
+1. Step 01 Create your new venv 
+	python -m venv venv
+2. Activate your env
+	venv\Scripts\activate 
+3. Install PyAutoGUI’s  
+	pip install pyautogui
